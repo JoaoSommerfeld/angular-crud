@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 6555.89
+    },
+    {
+      "id": 1,
+      "name": "Samsung",
+      "price": 1234.99
+    },
+    {
+      "id": 3,
+      "name": "Lápis",
+      "price": 3.89
+    },
+    {
+      "id": 4,
+      "name": "Tesoura",
+      "price": 15.89
+    },
+    {
+      "id": 5,
+      "name": "Microfone",
+      "price": 255.89
+    },
+    {
+      "name ": "Caneca",
+      "price": "25.98",
+      "id": 6,
+      "name": "algum nome"
+    },
+    {
+      "name": "Caneta Liquipaper",
+      "price": 195.98,
+      "id": 7
+    },
+    {
+      "name": "teste 123456789",
+      "price": 195.98,
+      "id": 8
+    },
+    {
+      "name": "teste",
+      "price": 195.98,
+      "id": 9
+    },
+    {
+      "name": "teste do form 123456789",
+      "price": "25",
+      "id": 10
+    },
+    {
+      "name": "Residencial",
+      "price": "1000.01",
+      "id": 11
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 12
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 13
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 14
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 15
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 16
+    },
+    {
+      "name": "teste",
+      "price": "100",
+      "id": 17
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 18
+    },
+    {
+      "name": "Residencial",
+      "price": "12,36",
+      "id": 19
+    },
+    {
+      "name": "Residencial",
+      "price": "25",
+      "id": 20
+    }
+  ]
+}
